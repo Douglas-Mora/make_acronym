@@ -13,4 +13,4 @@ def make_acronym(sentence):
         output += word[0].capitalize()
     return output
 
-print(make_acronym("Code Wars"))
+print(make_acronym("Sample sentence here"))
